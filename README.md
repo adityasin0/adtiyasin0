@@ -1,4 +1,4 @@
-![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-7A4WynwLsMw%2FXbBpCXG8fHI%2FAAAAAAAAMt4%2FuOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ%2Fs1600%2F2000_600px.gif&f=1&nofb=1&ipt=9b09eb936587bb0a17b8bf9b0fb2c407b6ef9980e99a4d11929273beb2c488fa&ipo=images)
+<a href="https://docs.google.com/drawings/d/1zROz5TgqlxTYyUZmYpfboMwyyuLxX3HV0jR6tkByKzw/edit?usp=sharing"><img src="https://raw.githubusercontent.com/atulmy/atulmy.github.io/master/images/fullstack-javascript-architecture/architecture.png?v=1.0" alt="Full-Stack JavaScript Architecture" /></a>
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
 <h3 align="center">Quick learner and Self Taught FullStack Developer adept at writing high quality code application development and user-friendly user interfaces for clients. Efficient with Agile development methodology for module testing and proficient in debugging and fixing errors.</h3>
 <img align="center" alt="Coding" width="1000" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
