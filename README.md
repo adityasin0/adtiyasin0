@@ -29,18 +29,18 @@
 <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTroU91FLk1e5CTmveZCstER9A-qLpJGNtZvA&s" alt="Excel" width="40" height="40"/> </a>
 </p>
 
-<p align="center"> <a href="https://twitter.com/Pratham291113" target="blank"><img src="https://img.shields.io/twitter/follow/Pratham291113?logo=twitter&style=for-the-badge" alt="Pratham291113" /></a> </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=prathameshkumbhar291113&label=Profile%20views&color=0e75b6&style=flat" alt="prathameshkumbhar291113" /> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=adityasin0&label=Profile%20views&color=0e75b6&style=flat" alt="adityasin0" /> </p>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" width="1000" height="230" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathameshkumbhar291113&layout=compact&langs_count=6&card_width=320&theme=blueberry" />
+  <img align="center" width="1000" height="230" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityasin0&layout=compact&langs_count=6&card_width=320&theme=blueberry" />
 </a> 
 <h6 align="center"></h6>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="1000" height="200" src="https://github-readme-stats.vercel.app/api?username=prathameshkumbhar291113&theme=blueberry" />
+  <img align="center" width="1000" height="200" src="https://github-readme-stats.vercel.app/api?username=adityasin0&theme=blueberry" />
 </a>
 <h6 align="center"></h6>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="1000" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshkumbhar291113&alt=prathameshkumbhar291113&theme=blueberry" />
+  <img align="center" width="1000" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=adityasin0&alt=adityasin0&theme=blueberry" />
 </a>
